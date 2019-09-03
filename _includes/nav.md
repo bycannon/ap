@@ -1,5 +1,10 @@
 ***
 
+* [**Curriculum**]({{ "/curriculum" | relative_url }})
+* [Syllabus]({{"/syllabus" | relative_url }})
+
+***
+
 * [CS50 IDE](https://ide.cs50.io/)
 * [CS50 me](https://submit.cs50.io/)
 
@@ -11,12 +16,7 @@
 
 ***
 
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
-* [Tools]({{ "/tools" | relative_url }})
-
-***
-
 * [CS50 Harvard](https://cs50.harvard.edu/)
 * [Project Showcase](https://sites.google.com/asfm.edu.mx/cs50ap/home)
 
+***
