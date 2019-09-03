@@ -1,12 +1,13 @@
 ***
 
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
+* [**Curriculum**]({{ "/curriculum" | relative_url }})
+
 
 ***
 
-* [CS50 IDE](https://ide.cs50.io/)
-* [CS50 me](https://submit.cs50.io/)
+* [**CS50 IDE**](https://ide.cs50.io/)
+* [**CS50 me**](https://submit.cs50.io/)
 
 ***
 
