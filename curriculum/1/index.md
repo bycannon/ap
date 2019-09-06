@@ -35,6 +35,6 @@
   
 * Problems
   * PSet0: [Hello](https://docs.cs50.net/2019/ap/problems/hello/hello.html){:target="_blank"}
-  * PSet1: [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html){:target="_blank"}, [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html){:target="_blank"}, AND [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html){:target="_blank"}
-  * PSet2: [ISBN](https://docs.cs50.net/2019/ap/problems/isbn/isbn.html){:target="_blank"} or [Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html){:target="_blank"}, AND [Mario(less comfy)](https://docs.cs50.net/2019/ap/problems/mario/less/mario.html){:target="_blank"} or [Mario(more comfy)](https://docs.cs50.net/2019/ap/problems/mario/more/mario.html){:target="_blank"}
+  * PSet1: [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html){:target="_blank"}, [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html){:target="_blank"}, **and** [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html){:target="_blank"}
+  * PSet2: [ISBN](https://docs.cs50.net/2019/ap/problems/isbn/isbn.html){:target="_blank"} or [Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html){:target="_blank"}, **and** [Mario(less comfy)](https://docs.cs50.net/2019/ap/problems/mario/less/mario.html){:target="_blank"} or [Mario(more comfy)](https://docs.cs50.net/2019/ap/problems/mario/more/mario.html){:target="_blank"}
 
