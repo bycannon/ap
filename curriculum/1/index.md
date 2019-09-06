@@ -6,10 +6,12 @@
   * [Notes](notes){:target="_blank"}
   
 * Source Code
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/1/src1/){:target="_blank"}
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/1/src1.pdf){:target="_blank"}
   * [Sandbox](https://sandbox.cs50.io/fbe800b2-4c6f-4bf4-8642-a853ee08ce5d){:target="_blank"}
+  {%comment%}
+  * [Index](https://cdn.cs50.net/2018/fall/lectures/1/src1/){:target="_blank"}
   * [ZIP](https://cdn.cs50.net/2018/fall/lectures/1/src1.zip)
+  * [PDF](https://cdn.cs50.net/2018/fall/lectures/1/src1.pdf){:target="_blank"}
+  {%endcomment%}
   
 * Shorts
   * [Command Line](https://www.youtube.com/watch?v=lnYKOnz9ln8){:target="_blank"}
