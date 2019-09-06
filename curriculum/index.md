@@ -1,7 +1,7 @@
 # CS50 Core Curriculum
 
 * [Unit 0](0)
-* [Unit 1](1)
+* [Unit 1](1) ***
 * [Unit 2](2)
 * [Unit 3](3)
 * [Unit 4](4)
