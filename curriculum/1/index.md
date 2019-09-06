@@ -1,4 +1,4 @@
-# Chapter 1
+# Unit 1: Building Blocks of Programming
 
 * Lecture
   * [Video](https://video.cs50.net/2018/fall/lectures/1){:target="_blank"}
