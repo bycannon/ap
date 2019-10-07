@@ -22,13 +22,13 @@
   * [Exit Codes](https://ap.cs50.school/assets/pdfs/exit_codes.pdf){:target="_blank"}
   * [Typecasting](https://ap.cs50.school/assets/pdfs/typecasting.pdf){:target="_blank"}
   
- * Problems
+* Problems
   * PSet3:[Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html){:target="_blank"}
   * PSet4:[Old Friends](https://docs.cs50.net/2019/ap/problems/friends/friends.html){:target="_blank"} **and** [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html){:target="_blank"}
   * PSet5:[Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html){:target="_blank"} **or** [Vigenère](https://docs.cs50.net/2019/ap/problems/vigenere/vigenere.html){:target="_blank"}
  
  
-{%comment%}
+<!--- 
 * Problems
   * [Crack](https://docs.cs50.net/2019/ap/problems/crack/crack.html)
 * Reference sheets
@@ -56,5 +56,5 @@
   * [Linear search](https://www.youtube.com/watch?v=TwsgCHYmbbA)
   * [Merge sort](https://www.youtube.com/watch?v=Ns7tGNbtvV4)
   * [Selection sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
-  {%endcomment%}
+--->
 
