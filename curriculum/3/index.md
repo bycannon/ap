@@ -7,7 +7,7 @@
 * Clips
   * [CSI Zoom Enhance](https://www.youtube.com/watch?v=i3gv2zOmJiA){:target="_blank"}
   * [Let's Enhance](https://www.youtube.com/watch?v=17MctJPzR8w){:target="_blank"}
- * Source Code
+* Source Code
   * [Sandbox](https://sandbox.cs50.io/13f78b0a-70db-4dc3-90f5-87164e38d431){:target="_blank"}
   * [Index](https://cdn.cs50.net/2018/fall/lectures/3/src3/){:target="_blank"}
   * [ZIP](https://cdn.cs50.net/2018/fall/lectures/3/src3.zip)
