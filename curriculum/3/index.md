@@ -1,27 +1,27 @@
 # Unit 3: 
 
 * Lecture
-  * [Video](https://video.cs50.net/2018/fall/lectures/3/)
-  * [Slides](https://cdn.cs50.net/2018/fall/lectures/3/lecture3.pdf)
-  * [Notes](notes)
+  * [Video](https://video.cs50.net/2018/fall/lectures/3/){:target="_blank"}
+  * [Slides](https://cdn.cs50.net/2018/fall/lectures/3/lecture3.pdf){:target="_blank"}
+  * [Notes](notes){:target="_blank"}
 * Clips
-  * [CSI Zoom Enhance](https://www.youtube.com/watch?v=i3gv2zOmJiA)
-  * [Let's Enhance](https://www.youtube.com/watch?v=17MctJPzR8w)
+  * [CSI Zoom Enhance](https://www.youtube.com/watch?v=i3gv2zOmJiA){:target="_blank"}
+  * [Let's Enhance](https://www.youtube.com/watch?v=17MctJPzR8w){:target="_blank"}
  * Source Code
-  * [Sandbox](https://sandbox.cs50.io/13f78b0a-70db-4dc3-90f5-87164e38d431)
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/3/src3/)
+  * [Sandbox](https://sandbox.cs50.io/13f78b0a-70db-4dc3-90f5-87164e38d431){:target="_blank"}
+  * [Index](https://cdn.cs50.net/2018/fall/lectures/3/src3/){:target="_blank"}
   * [ZIP](https://cdn.cs50.net/2018/fall/lectures/3/src3.zip)
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/3/src3.pdf)
+  * [PDF](https://cdn.cs50.net/2018/fall/lectures/3/src3.pdf){:target="_blank"}
 * Shorts
-  * [Custom data types](https://www.youtube.com/watch?v=crxfzK3Oc9M)
-  * [Hexadecimal](https://www.youtube.com/watch?v=8okwMK6htKE)
+  * [Custom data types](https://www.youtube.com/watch?v=crxfzK3Oc9M){:target="_blank"}
+  * [Hexadecimal](https://www.youtube.com/watch?v=8okwMK6htKE){:target="_blank"}
 * Reference Sheets
-  * [File I/O](https://ap.cs50.school/assets/pdfs/file_io.pdf)
-  * [Hexadecimal](https://ap.cs50.school/assets/pdfs/hexadecimal.pdf)
-  * [Images](https://ap.cs50.school/assets/pdfs/images.pdf)
-  * [Structures and Encapsulation](https://ap.cs50.school/assets/pdfs/structures_and_encapsulation.pdf)
+  * [File I/O](https://ap.cs50.school/assets/pdfs/file_io.pdf){:target="_blank"}
+  * [Hexadecimal](https://ap.cs50.school/assets/pdfs/hexadecimal.pdf){:target="_blank"}
+  * [Images](https://ap.cs50.school/assets/pdfs/images.pdf){:target="_blank"}
+  * [Structures and Encapsulation](https://ap.cs50.school/assets/pdfs/structures_and_encapsulation.pdf){:target="_blank"}
 * Problems
-  * PSet6:[Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html) and [Recover](https://docs.cs50.net/2019/ap/problems/recover/recover.html)
+  * PSet6:[Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html){:target="_blank"} **and** [Recover](https://docs.cs50.net/2019/ap/problems/recover/recover.html){:target="_blank"}
 
 
 
