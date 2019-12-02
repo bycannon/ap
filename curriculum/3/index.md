@@ -1,4 +1,4 @@
-# Unit 3: 
+# Unit 3: Design, Elegance, and Efficiency
 
 * Lecture
   * [Video](https://video.cs50.net/2018/fall/lectures/3/){:target="_blank"}
@@ -21,11 +21,11 @@
   * [Images](https://ap.cs50.school/assets/pdfs/images.pdf){:target="_blank"}
   * [Structures and Encapsulation](https://ap.cs50.school/assets/pdfs/structures_and_encapsulation.pdf){:target="_blank"}
 * Problems
-  * PSet6:[Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html){:target="_blank"} **and** [Recover](https://docs.cs50.net/2019/ap/problems/recover/recover.html){:target="_blank"}
+  * PSet6: [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html){:target="_blank"} **and** [Recover](https://docs.cs50.net/2019/ap/problems/recover/recover.html){:target="_blank"}
 
 
 
-  
+<!--- 
   * [Pointer Fun with Binky](https://www.youtube.com/watch?v=_d0jFalGxnQ)
   * [Call Stacks](https://www.youtube.com/watch?v=aCPkszeKRa4)
   * [Dynamic Memory Allocation](https://www.youtube.com/watch?v=xa4ugmMDhiE)
@@ -35,3 +35,4 @@
   * [Bugs and Debugging](https://ap.cs50.school/assets/pdfs/bugs_and_debugging.pdf)
   * [Fifteen](https://docs.cs50.net/2019/ap/problems/fifteen/fifteen.html)
   * [Resize (less comfy)](https://docs.cs50.net/2019/ap/problems/resize/less/resize.html) or [Resize (more comfy)](https://docs.cs50.net/2019/ap/problems/resize/more/resize.html)
+--->
