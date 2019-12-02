@@ -13,6 +13,7 @@
   * [ZIP](https://cdn.cs50.net/2018/fall/lectures/3/src3.zip)
   * [PDF](https://cdn.cs50.net/2018/fall/lectures/3/src3.pdf)
 * Shorts
+  * [Custom data types](https://www.youtube.com/watch?v=crxfzK3Oc9M)
   * [Hexadecimal](https://www.youtube.com/watch?v=8okwMK6htKE)
 * Reference Sheets
   * [File I/O](https://ap.cs50.school/assets/pdfs/file_io.pdf)
