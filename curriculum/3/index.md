@@ -1,4 +1,4 @@
-# Unit 3: Design, Elegance, and Efficiency
+# Unit 3: Thinking Computationally
 
 * Lecture
   * [Video](https://video.cs50.net/2018/fall/lectures/3/){:target="_blank"}
