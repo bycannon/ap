@@ -1,7 +1,7 @@
 # Algorithms and Efficiency
 
 ### Modules
-* [Algorithms, Heuristics and Unsolvable Problems]({{"/notes/algorithms" | relative_url }})
+* [Algorithms, Heuristics and Unsolvable Problems](notes/algorithms.md)
 * Searching Algorithms:
   * [Linear Search]({{"/notes/linear_search" | relative_url }})
   * [Binary Search]({{"/notes/binary_search" | relative_url }})
