@@ -12,5 +12,5 @@
 # AP Modules
 * [Understanding Technology](understanding_technology) ✅
 * [Impact of Computing](impact_of_computing) ✅
-* [Searching and Sorting](algorithms)
+* [Algorithms and Efficiency](algorithms)
 * [Data Science](data_science)
