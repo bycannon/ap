@@ -15,8 +15,8 @@ Linear search is the most basic algorithm for searching that you will encounter 
   - [Linear Search](https://www.youtube.com/embed/TwsgCHYmbbA){:target="_blank"}
   - [Linear Search (Patrick)](https://www.youtube.com/embed/CX2CYIJLwfg){:target="_blank"}
 
-- ### Notes
-  - [Linear Search]({{"/assets/pdfs/unit3/linear_search.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Linear Search](https://ap.cs50.school/assets/pdfs/linear_search.pdf){:target="_blank"}
 
 - ### Thought Questions
   -  When is it advantageous to use linear search? When is it not-so-advantageous?
