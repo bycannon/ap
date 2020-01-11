@@ -21,8 +21,8 @@ In this section, we consider an approach to sorting that minimizes the number of
   - [Selection Sort](https://www.youtube.com/embed/3hH8kTHFw2A){:target="_blank"}
   - [Selection Sort (Tommy)](https://www.youtube.com/embed/f8hXR_Hvybo){:target="_blank"}
 
-- ### Notes
-  - [Selection Sort]({{"/assets/pdfs/unit3/selection_sort.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Selection Sort](https://ap.cs50.school/assets/pdfs/selection_sort.pdf){:target="_blank"}
 
 - ### Supplementary Resources
   - Khan Academy on [Interactive Sorting](https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/sorting){:target="_blank"}
