@@ -9,8 +9,8 @@ Computer programs can be used to create models and simulations, to test hypothes
   - CodeHS on [Simulations](https://www.youtube.com/embed/GbVQBOnrXU4){:target="_blank"}
   - NTSA on [Modeling and Simulation](https://www.youtube.com/embed/M0iZ52kUOiQ){:target="_blank"}
 
-- ### Notes
-  - [Models and Simulations]({{"/assets/pdfs/unit3/models_and_simulations.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Models and Simulations](https://ap.cs50.school/assets/pdfs/models_and_simulations.pdf){:target="_blank"}
 
 - ### Supplementary Resources
   - Real-world [applications of simulations](http://etec.ctlt.ubc.ca/510wiki/Real-world_Applications_of_Simulations){:target="_blank"} 
