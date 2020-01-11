@@ -10,8 +10,8 @@ In this section, you will consider unsolvable problems in computer science, incl
 - ### Videos
   - [The Secret Rules of Modern Living: Algorithms](https://ihavenotv.com/the-secret-rules-of-modern-living-algorithms){:target="_blank"}
   
-- ### Notes
-  - [Unsolvable Problems and Heuristics]({{"/assets/pdfs/unit3/unsolvable_problems.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Unsolvable Problems and Heuristics](https://ap.cs50.school/assets/pdfs/unsolvable_problems.pdf){:target="_blank"}
   
 - ### Additional Resources
   - Explanimator on [Unsolvable Problems](https://www.youtube.com/embed/Hex2hqPvOQ8){:target="_blank"}
