@@ -25,8 +25,8 @@ In this section, you will consider a different approach to sorting that doesn't 
   - [Insertion Sort](https://www.youtube.com/embed/kU9M51eKSX8){:target="_blank"}
   - [Insertion Sort (Tommy)](https://www.youtube.com/embed/DFG-XuyPYUQ){:target="_blank"}
 
-- ### Notes
-  - [Insertion Sort]({{"/assets/pdfs/unit3/insertion_sort.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Insertion Sort](https://ap.cs50.school/assets/pdfs/insertion_sort.pdf){:target="_blank"}
   
 - ### Supplementary Resources
   - Toptal on [Interactive Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms){:target="_blank"}
