@@ -21,8 +21,8 @@ We certainly like it when things are organized. Having data assembled in a parti
   - [Bubble Sort](https://www.youtube.com/embed/RT-hUXUWQ2I){:target="_blank"}
   - [Bubble Sort (Jackson)](https://www.youtube.com/embed/8Kp-8OGwphY){:target="_blank"}
 
-- ### Notes
-  - [Bubble Sort]({{"/assets/pdfs/unit3/bubble_sort.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Bubble Sort](https://ap.cs50.school/assets/pdfs/bubble_sort.pdf){:target="_blank"}
 
 - ### Thought Questions
   - Why is sorting data useful?
