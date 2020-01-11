@@ -22,8 +22,8 @@ The subject of computational complexity (also known as time complexity and/or sp
   - [Computational Complexity](https://www.youtube.com/embed/YoZPTyGL2IQ){:target="_blank"}
   - [Asymptotic Notation (Jackson)](https://www.youtube.com/embed/iOq5kSKqeR4){:target="_blank"}
 
-- ### Notes
-  - [Computational Complexity]({{"/assets/pdfs/unit3/computational_complexity.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Computational Complexity](https://ap.cs50.school/assets/pdfs/computational_complexity.pdf){:target="_blank"}
   
 - ### Additional Resources
   - [Comparison of Sorting Algorithms](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html){:target="_blank"}
