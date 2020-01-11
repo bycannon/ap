@@ -15,8 +15,8 @@ After you are familiar with linear search, a faster searching algorithm is the n
   - [Binary Search](https://www.youtube.com/embed/T98PIp4omUA){:target="_blank"}
   - [Binary Search (Patrick)](https://www.youtube.com/embed/D5SrAga1pno){:target="_blank"}
   
-- ### Notes
-  - [Binary Search]({{"/assets/pdfs/unit3/binary_search.pdf" | relative_url }}){:target="_blank"}
+- ### Reference Sheets
+  - [Binary Search](https://ap.cs50.school/assets/pdfs/binary_search.pdf){:target="_blank"}
 
 - ### Thought Questions
   - Under which conditions is it more efficient to use binary search versus linear search on a set of data?
