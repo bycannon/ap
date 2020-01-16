@@ -13,6 +13,7 @@ Computer programs can be used to create models and simulations, to test hypothes
   - [Models and Simulations](https://ap.cs50.school/assets/pdfs/models_and_simulations.pdf){:target="_blank"}
 
 - ### Supplementary Resources
+  - [fivethirtyeight](https://fivethirtyeight.com/){:target="_blank"}, uses mathematical models to tell compeling stories about politics, sports, science, economics, and culture
   - Real-world [applications of simulations](http://etec.ctlt.ubc.ca/510wiki/Real-world_Applications_of_Simulations){:target="_blank"} 
   - Interactive [Plinko Predictions](https://phet.colorado.edu/sims/plinko-probability/plinko-probability_en.html){:target="_blank"}
   - LeiosOS on the [What is Monte Carlo](https://www.youtube.com/embed/AyBNnkYrSWY){:target="_blank"}
