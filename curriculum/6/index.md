@@ -1,4 +1,4 @@
-# Unit 6: Python
+# Unit 6: Problem-Solving in an Interconnected World
 
 * Lecture
   * [Video](https://video.cs50.net/2018/fall/lectures/6)
