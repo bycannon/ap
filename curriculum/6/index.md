@@ -14,6 +14,9 @@
 * Reference Sheet
   * [Python](https://ap.cs50.school/assets/pdfs/python.pdf){:target="_blank"}
   
+* External Resources
+  * Python Tutorial in [W3Schools](https://www.w3schools.com/python/default.asp){:target="_blank"}
+  
 * Problems
   <!--* [Analyze This](https://docs.cs50.net/2019/ap/problems/analyze/analyze.html)-->
   * Sentimental
