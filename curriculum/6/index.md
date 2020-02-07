@@ -24,7 +24,7 @@
     * [Mario(less)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/less/mario.html){:target="_blank"} or [Mario(more)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/more/mario.html){:target="_blank"}
     * [Cash](https://docs.cs50.net/2019/ap/problems/sentimental/cash/cash.html){:target="_blank"} or [Credit](https://docs.cs50.net/2019/ap/problems/sentimental/credit/credit.html){:target="_blank"}
     * [Caesar](https://docs.cs50.net/2019/ap/problems/sentimental/caesar/caesar.html){:target="_blank"} or [Vigenère](https://docs.cs50.net/2019/ap/problems/sentimental/vigenere/vigenere.html){:target="_blank"}
-    * [C solutions](https://drive.google.com/open?id=1-yLcOcnOjGB5LX5yoRWMttkanXbz4BVt)
+    * [C solutions](https://drive.google.com/file/d/1-yLcOcnOjGB5LX5yoRWMttkanXbz4BVt)
   * [Bleep](https://docs.cs50.net/2019/ap/problems/bleep/bleep.html){:target="_blank"}
 
 
