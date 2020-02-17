@@ -1,4 +1,4 @@
-# Chapter 7
+# Unit 7: Web Applications 1
 
 * Lecture
   * [Video](https://video.cs50.net/2018/fall/lectures/7){:target="_blank"}
